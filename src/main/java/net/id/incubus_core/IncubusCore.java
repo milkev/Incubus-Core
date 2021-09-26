@@ -28,8 +28,6 @@ public class IncubusCore implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		if(!FabricLoader.getInstance().isDevelopmentEnvironment())
-			LOG.info(IncubusCoreInit.HOLY_CONST);
 
 		genCheck: {
 			String[] args = FabricLoader.getInstance().getLaunchArguments(false);

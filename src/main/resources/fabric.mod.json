@@ -4,15 +4,13 @@
   "version": "${version}",
 
   "name": "Incubus Core",
-  "description": "Bring your own lube.",
+  "description": "Original Dev Is Horny",
   "authors": [
     "Immortal Devs - Parent Organization",
-    "Azazelthedemonlord - Author and lead incubus"
+    "Azazelthedemonlord - Author and lead incubus",
+    "Milkev - The person who graciously saved your log"
   ],
   "contact": {
-    "homepage": "https://github.com/devs-immortal/Incubus-Core",
-    "sources": "https://github.com/devs-immortal/Incubus-Core",
-    "issues": "https://github.com/devs-immortal/Incubus-Core/issues"
   },
 
   "license": "MIT",
@@ -36,7 +34,7 @@
   "custom": {
     "modmenu": {
       "links": {
-        "modmenu.discord": "https://discord.gg/vAa35wQ2ZP"
+        "modmenu.discord": ""
       },
       "badges": [
         "library"
